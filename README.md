@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack em Formação`**
 
-Me chamo Kallel Cordeiro dos Santos, tenho 20 anos e sou natural do Parána.  Atualmente, estou cursando Sistema de Informação. Aficionado por tecnologia.
+Me chamo Kallel, tenho 20 anos.  Atualmente, estou cursando Sistema de Informação. Aficionado por tecnologia.
 
 
 ---
